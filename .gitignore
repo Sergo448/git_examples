@@ -1,0 +1,6 @@
+../wrong_file.txt
+./wrong_file.txt
+/wrong_file.txt
+wrong_file.txt
+.wrong_file.txt
+..wrong_file.txt
